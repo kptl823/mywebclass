@@ -18,7 +18,7 @@ theirs. The end result is that each partner should have the experience of the te
 
 1. Partner 1: https://github.com/kptl823/mywebclass
 2. Partner 2: https://github.com/rstone1214/mywebclass
-3. Partner 3: Optional
+
 
 Complete this on each partner's repos for this assignment by following the development workflow process bellow. Since
 you are updating just the [readme.md](readme.md) file, you won't see any changes on localhost. But maybe you can
